@@ -1,4 +1,4 @@
-# Kase bot bir alt yapıdır ordan burdan alınan kodlar ile  yapılmıştır.
+# Kase bot
 
 Star ve Takip Etmeyi Unutmayın, Emeğe Star Atmayan Büyük Ayıp Eder.
 
